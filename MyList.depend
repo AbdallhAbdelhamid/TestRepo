@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1606594917 source:d:\myprojects\mylist\src\mylist.cpp
+
+1606597796 d:\myprojects\mylist\include\mylist.h
+	<iostream>
+
+1606592217 source:d:\myprojects\mylist\main.cpp
+	<iostream>
+	"MyList.h"
+
